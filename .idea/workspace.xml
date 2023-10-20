@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -8,11 +9,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessons/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/main.py" afterDir="false" />
     </list>
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="704f18d9-9b92-42e5-b665-c91b7b634eaf" name="Changes" comment="add" />
+>>>>>>> master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -39,6 +45,15 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+>>>>>>> master
   <component name="ProjectId" id="2X1PnPsIuaNwMpz3KDn9Hi2AEwn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,9 +63,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/Install/Programming/intellij-rainbow-brackets-6.26/intellij-rainbow-brackets/lib/intellij-rainbow-brackets-6.26.jar",
     "settings.editor.selected.configurable": "settings.qodana"
+=======
+    "git-widget-placeholder": "master"
+>>>>>>> master
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -122,6 +141,7 @@
       <option name="project" value="LOCAL" />
       <updated>1697794025854</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="add">
       <option name="closed" value="true" />
       <created>1697794113068</created>
@@ -131,6 +151,9 @@
       <updated>1697794113068</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> master
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
