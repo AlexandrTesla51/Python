@@ -6,4 +6,4 @@ text = sys.argv[1]
 text.strip().title() + "."
 
 # Выводим текст.
-print(text)ter)-2-len(page),"."),page)
+print(text())ter)-2-len(page),"."),page)
